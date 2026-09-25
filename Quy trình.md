@@ -1,3 +1,7 @@
+
+
+Dạ cái này em tổng hợp từ phỏng vấn ạ. Nên có 1 số cái em cũng phải tự suy luận ra ạ.
+
 1. Khách hàng phát sinh nhu cầu
 2. Khách hàng gửi yêu cầu mua nợ
 3. Nhân viên tiếp nhận yêu cầu của khách
